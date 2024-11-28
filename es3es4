@@ -1,0 +1,13 @@
+[
+ {
+ "run": "678989-0",
+ "nombre": "joaquin",
+ "apellido": "abarca",
+ "direccion": "narnia",
+ "fono": 14141414,
+ "correo":"joaquin.abarca04inacapmail.cl",
+ "montoCredito": 505050,
+ "deuda":0,
+ "tipo": 1
+ }
+]
